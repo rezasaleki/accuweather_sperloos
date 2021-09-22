@@ -1,14 +1,14 @@
 {
   "name": "accuweather_nodejs_server",
   "version": "1.0.0",
-  "description": "accuweather",
-  "main": "index.js",
+  "description": "In this project, we intend to request https://www.accuweather.com through the NodeJS server and save the weather value as a json file.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "crawl"],
+  "author": "rezasaleki",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.4",
