@@ -1,0 +1,23 @@
+{
+  "name": "accuweather_nodejs_server",
+  "version": "1.0.0",
+  "description": "accuweather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.1.5",
+    "jquery": "^3.6.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
